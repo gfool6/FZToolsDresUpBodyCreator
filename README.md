@@ -1,6 +1,6 @@
 # FZTools Dresup Body Creator
 
-インストールは[こちら](vcc://vpm/addRepo?url=https://gfool6.github.io/vpm-repos/vpm.json)
+インストールは[こちら](vcc://vpm/addRepo?url=https://gfool6.github.io/vpm-repos/vpm-list.json)
 
 ## ヌイデネ(仮)
 ### 機能
